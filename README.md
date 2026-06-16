@@ -9,7 +9,8 @@ To get a copy of this project on your computer, open your **Terminal** or **Comm
 ```bash
 git clone [https://github.com/aryxncodes7/dev-lens.git](https://github.com/aryxncodes7/dev-lens.git)
 ```
-#How to Run
+
+##How to Run
 
 1.Download or clone this repository to your local machine.
 
